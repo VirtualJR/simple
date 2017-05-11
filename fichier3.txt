@@ -1,1 +1,3 @@
 Ce fichier est ajouté pour permettre de faire un commit séparé.
+
+Modification également apporté  à ce fichier pour générer un nouveau commit.
